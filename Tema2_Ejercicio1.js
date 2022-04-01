@@ -4,4 +4,4 @@ function funcion(){
   console.log(variable);
 }
 console.log(variable);
-funcion();
+funcion(); 
